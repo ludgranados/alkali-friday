@@ -46,6 +46,7 @@
 			?>
 			<?php endif; ?>
 		</div><!-- .site-branding -->
+        
         <div class="container-fluid">
             <a class="navbar-brand" href="#">Navbar</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main-menu"
